@@ -1,0 +1,82 @@
+{
+    "craftingTree": {},
+    "alternatives": {},
+    "games": {
+        "1": {
+            "name": "Unknown",
+            "description": "Game not specified"
+        },
+        "2": {
+            "name": "Minecraft - Vanilla",
+            "description": "Classic Minecraft experience"
+        },
+        "3": {
+            "name": "Minecraft - Modded",
+            "description": "Minecraft with mods"
+        },
+        "4": {
+            "name": "Minecraft - ATM10",
+            "description": "All The Mods 10 modpack"
+        },
+        "5": {
+            "name": "Minecraft - BMC4",
+            "description": "Better Minecraft 4 modpack"
+        },
+        "6": {
+            "name": "Minecraft - Pixelmon",
+            "description": "Minecraft with Pixelmon mod"
+        },
+        "7": {
+            "name": "Satisfactory - Vanilla",
+            "description": "Base Satisfactory game"
+        },
+        "8": {
+            "name": "Satisfactory - Modded",
+            "description": "Satisfactory with mods"
+        },
+        "9": {
+            "name": "Terraria",
+            "description": "2D sandbox adventure game"
+        },
+        "10": {
+            "name": "Raft",
+            "description": "Survival game on the ocean"
+        },
+        "11": {
+            "name": "Factorio",
+            "description": "Factory building game"
+        },
+        "12": {
+            "name": "Factorio - Space Age",
+            "description": "Factorio with Space Age expansion"
+        },
+        "13": {
+            "name": "Forager",
+            "description": "Idle adventure game"
+        },
+        "14": {
+            "name": "Rust",
+            "description": "Multiplayer survival game"
+        },
+        "15": {
+            "name": "ARK",
+            "description": "ARK: Survival Evolved"
+        },
+        "16": {
+            "name": "Stardew Valley",
+            "description": "Farming and life simulator"
+        },
+        "17": {
+            "name": "Subnautica",
+            "description": "Underwater survival game"
+        },
+        "18": {
+            "name": "Subnautica BZ",
+            "description": "Subnautica: Below Zero"
+        },
+        "19": {
+            "name": "No Man's Sky",
+            "description": "Space exploration game"
+        }
+    }
+}
